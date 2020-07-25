@@ -1,0 +1,37 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.30204.135
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "DickinsonBros.NoSQLService.Abstractions", "DickinsonBros.NoSQLService.Abstractions\DickinsonBros.NoSQLService.Abstractions.csproj", "{F10FAA4C-DC86-4033-964B-1CD645547DCB}"
+EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "1 Abstractions", "1 Abstractions", "{5AB90096-2F92-45DF-96D2-1711F42493DA}"
+EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "9 Scripts", "9 Scripts", "{34502FCB-B1C5-4504-811C-A1B102F248EB}"
+	ProjectSection(SolutionItems) = preProject
+		Scripts\CreateNugetPackagePreRelease.ps1 = Scripts\CreateNugetPackagePreRelease.ps1
+		Scripts\Publish.yml = Scripts\Publish.yml
+		Scripts\Test.yml = Scripts\Test.yml
+	EndProjectSection
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{F10FAA4C-DC86-4033-964B-1CD645547DCB}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{F10FAA4C-DC86-4033-964B-1CD645547DCB}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{F10FAA4C-DC86-4033-964B-1CD645547DCB}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{F10FAA4C-DC86-4033-964B-1CD645547DCB}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(NestedProjects) = preSolution
+		{F10FAA4C-DC86-4033-964B-1CD645547DCB} = {5AB90096-2F92-45DF-96D2-1711F42493DA}
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {78EBFAF2-6B66-4318-AEEB-F9998DEAF76D}
+	EndGlobalSection
+EndGlobal
