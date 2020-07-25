@@ -1,7 +1,5 @@
 # DickinsonBros.NoSQLService.Abstractions
 
-# DickinsonBros.NoSQLService.Abstractions
-
 <a href="https://www.nuget.org/packages/DickinsonBros.NoSQLService.Abstractions/">
     <img src="https://img.shields.io/nuget/v/DickinsonBros.NoSQLService.Abstractions">
 </a>
