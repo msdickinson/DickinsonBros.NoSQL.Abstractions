@@ -3,7 +3,7 @@ Microsoft Visual Studio Solution File, Format Version 12.00
 # Visual Studio Version 16
 VisualStudioVersion = 16.0.30204.135
 MinimumVisualStudioVersion = 10.0.40219.1
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "DickinsonBros.NoSQLService.Abstractions", "DickinsonBros.NoSQLService.Abstractions\DickinsonBros.NoSQLService.Abstractions.csproj", "{F10FAA4C-DC86-4033-964B-1CD645547DCB}"
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "DickinsonBros.NoSQL.Abstractions", "DickinsonBros.NoSQL.Abstractions\DickinsonBros.NoSQL.Abstractions.csproj", "{F10FAA4C-DC86-4033-964B-1CD645547DCB}"
 EndProject
 Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "1 Abstractions", "1 Abstractions", "{5AB90096-2F92-45DF-96D2-1711F42493DA}"
 EndProject

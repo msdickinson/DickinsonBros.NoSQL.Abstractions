@@ -1,6 +1,6 @@
 ﻿using System.Threading.Tasks;
 
-namespace DickinsonBros.NoSQLService.Abstractions
+namespace DickinsonBros.NoSQL.Abstractions
 {
     public interface INoSQLService
     {
